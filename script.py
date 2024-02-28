@@ -1,20 +1,5 @@
 import bpy
 
-
-# assigning each object a variable name
-#flywheel_bottom = bpy.context.scene.objects["Flywheel Bottom"]
-#Flywheel_top = bpy.context.scene.objects["Flywheel Top"]
-#Ground = bpy.context.scene.objects["Ground"]
-#Hinge_bottom = bpy.context.scene.objects["Hinge Bottom"]
-#hinge_top = bpy.context.scene.objects["Hinge Top"]
-#motor_bottom = bpy.context.scene.objects["Motor_Bottom"]
-#motor_top = bpy.context.scene.objects["Motor_top"]
-#payload_assembly = bpy.context.scene.objects["Payload Assembly"]
-#Payload_hinge = bpy.context.scene.objects["Payload Hinge"]
-#Sphere = bpy.context.scene.objects["Sphere"]
-#TOP = bpy.context.scene.objects["TOP"]
-
-
 w1 = 10
 w2 = 0
 
